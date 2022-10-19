@@ -4,9 +4,11 @@ A Classic game we all remember playing in Nokia 3310  : )
 
 Instructions to play :
 
-1.1 : Download the Snake_Game.exe file and open it.
+1.1 : Download the Snake_Game.exe file. Your browser may term it as a dangerous file and tell you to avoid downloading. In this case you need to search for the option 'Keep' which will be usually found when clicked at the above pointing arrow which is located beside the downloading file. 
 
-1.2 : A blank command prompt will open for a brief seconds. Do not panic.
+1.2: Open the downloaded file. If it tries to avoid, press More Info and then Run.
+
+1.3 : A blank command prompt will open for a brief seconds. Do not panic.
 
 2.1 : Our brother Snake will start moving. Control it with the Arrow Keys ( ↑ → ↓ ← ) from your keyboard.
 
